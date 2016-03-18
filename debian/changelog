@@ -1,3 +1,9 @@
+nccl (1.1.1-1+cuda8.0) trusty; urgency=medium
+
+  * Rebuilding with 8.0
+
+ -- Boris Fomitchev <bfomitchev@nvidia.com>  Thu, 17 Mar 2016 18:37:01 -0800
+
 nccl (1.1.1-1+cuda7.5) trusty; urgency=medium
 
   * Rebuilding with 7.5
